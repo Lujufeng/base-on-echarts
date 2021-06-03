@@ -1,7 +1,7 @@
 # base-on-echarts
 Note that please create a database before running！
 
-For more information on the syntax for creating a database please see create_mysql
+For more information on the syntax for creating a database please see create_mysql.txt
 
 Step 1:run spyder's files
 
