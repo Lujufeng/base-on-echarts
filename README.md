@@ -1,3 +1,3 @@
 # base-on-echarts
-1.run spyder
-2.run show
+stpe 1:run spyder's files
+stpe 2:run show's files
