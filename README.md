@@ -1,6 +1,10 @@
 # base-on-echarts
-step 1:run spyder's files
+Note that please create a database before running！
 
-step 2:run show's app.py
+For more information on the syntax for creating a database please see create_mysql
 
-step 3:run show's main.html
+Step 1:run spyder's files
+
+Step 2:run show's app.py
+
+Step 3:run show's main.html
