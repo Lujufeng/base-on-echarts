@@ -1,2 +1,3 @@
 # base-on-echarts
-test 
+1.run spyder
+2.run show
